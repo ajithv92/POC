@@ -5,4 +5,7 @@
 // - HTML
 // - CSS
 // - JavaScript
-// 
+//
+// Create required sub-directory to store files (css, images, javascript etc)
+//
+ 
